@@ -15,11 +15,11 @@ Este projeto é parte de um trabalho acadêmico de probabilidade e estatística 
   install.packages("ggplot2")            
 ```
 ```bash
-install.packages("dplyr")
+  install.packages("dplyr")
 ```
 ```bash
-install.packages("readr")
+  install.packages("readr")
 ```
 ```bash
-install.packages("tidyr")
+  install.packages("tidyr")
 ```
